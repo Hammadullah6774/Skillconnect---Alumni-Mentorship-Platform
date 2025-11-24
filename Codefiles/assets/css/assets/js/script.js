@@ -126,8 +126,7 @@ function handleMentorSearch() {
 
     searchInput.addEventListener('keyup', function() {
         const searchTerm = searchInput.value.toLowerCase();
-
-        mentorCards.forEach(card => {
+            mentorCards.forEach(card => {
             const name = card.getAttribute('data-name').toLowerCase();
             const skills = card.getAttribute('data-skills').toLowerCase();
             
