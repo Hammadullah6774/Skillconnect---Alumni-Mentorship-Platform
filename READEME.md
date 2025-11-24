@@ -9,7 +9,7 @@
 ---
 
 ### 2. Modules/Pages
-
+|------------------------------------------------------------------------|
 | Module/Page Name | Purpose/Functionality | Responsible Group Member(s) |
 | **Login Page** (`index.html`) | Allows alumni and students to log in to the platform with email, password, and user type selection. | Hammad Ullah Javed |
 | **Dashboard** (`dashboard.html`) | Displays a welcome message, quick actions like booking sessions, viewing profile, and opening chat. | Saif Saleem Raja |
